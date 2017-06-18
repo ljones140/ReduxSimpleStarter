@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import SearchBar from './components/search_bar';
 
+// Add youtue api key here
+const API_KEY = '';
 
 // Create a new component. this should produce some HTML
 const App = () => {
